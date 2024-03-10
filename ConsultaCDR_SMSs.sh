@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# TESTE GITHUB
 #Consulta às Tabelas CDR para levantamentos com milhões de MSISDNS
 
 for table in $(cat tabelascdr2.txt); 
